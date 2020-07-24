@@ -1,4 +1,5 @@
 // Write your code here!
+let element = document.createElement('div')
 
 let element = document.querySelector("p#greeting");
 element.innerHTML = 'Hello, DOM!';
