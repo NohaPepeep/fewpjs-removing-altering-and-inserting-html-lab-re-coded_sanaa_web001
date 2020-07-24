@@ -18,4 +18,6 @@ header.innerHTML = "<h1>Poodles!</h1><h3>An Essay into the Pom-Pom as Aesthetic 
 element.style.backgroundColor = '#27647B';
 element.style.textAlign = 'center';
 ul.style.textAlign = 'left';
-element.className = "dog"
+element.className = "dog";
+element.classList.remove("this-is-fine");
+element.classList.add("the-room-is-on-fire");
