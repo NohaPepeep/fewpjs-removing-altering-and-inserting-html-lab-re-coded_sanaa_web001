@@ -21,3 +21,4 @@ ul.style.textAlign = 'left';
 element.className = "dog";
 element.classList.remove("this-is-fine");
 element.classList.add("the-room-is-on-fire");
+ul.removeChild(ul.querySelector('li:nth-child(2)'))
