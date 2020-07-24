@@ -23,4 +23,4 @@ element.classList.remove("this-is-fine");
 element.classList.add("the-room-is-on-fire");
 ul.removeChild(ul.querySelector('li:nth-child(2)'));
 ul.remove();
-let newHeader = document.querySelector("p#greeting");
+let newHeader = document.querySelector("h1#victory");
