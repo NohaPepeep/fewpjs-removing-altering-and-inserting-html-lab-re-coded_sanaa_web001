@@ -24,3 +24,4 @@ element.classList.add("the-room-is-on-fire");
 ul.removeChild(ul.querySelector('li:nth-child(2)'));
 ul.remove();
 let newHeader = document.querySelector("h1#victory");
+newHeader.innerHTML="YOUR-NAME is the champion"
