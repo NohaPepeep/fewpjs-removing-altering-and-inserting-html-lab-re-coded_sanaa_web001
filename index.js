@@ -1,4 +1,3 @@
 // Write your code here!
 
-let element = document.querySelector("p#greeting");
-element.innerHTML = 'Hello, DOM!';
+let element = document.createElement('div');
